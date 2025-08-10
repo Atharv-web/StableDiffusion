@@ -1,0 +1,6 @@
+crewai[tools]
+langchain
+pydantic
+python-docx
+fastapi
+flask
